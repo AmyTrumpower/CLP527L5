@@ -16,13 +16,15 @@ gosling:
   - is a real boy
   - never dated alanis morissette
   weaknesses: 
-  - micky mouse club
+  - mickey mouse club
   - cries a lot
   - not ryan reynolds
 ---
 
 
-![]({{site.url}}/assets/img/ryan-v-ryan.jpg)  
+
+
+![](img/ryan-v-ryan.jpg)  
 
 
 ## Lorem Ipsum
